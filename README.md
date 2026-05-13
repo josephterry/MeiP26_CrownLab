@@ -1,2 +1,2 @@
 # MeiP26_CrownLab
-Short Descrption
+Repository containing data and analysis code associated with Terry et al. 2026
